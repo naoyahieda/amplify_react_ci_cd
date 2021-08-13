@@ -9,6 +9,9 @@ function App() {
         <p>
           18:21にstagingを編集、18:30にマージしてみる!
         </p>
+        <p>
+          さらにlocalブランチを作り18:23にpush
+        </p>
         <a
           className="App-link"
           href="https://django.baby"
