@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          これはstating環境
+          これはstating環境、17:52に編集
         </p>
         <a
           className="App-link"
