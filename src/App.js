@@ -7,7 +7,10 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          18:11にstagingを編集、マージしてみる!
+          18:21にstagingを編集、18:30にマージしてみる!
+        </p>
+        <p>
+          さらにlocalブランチを作り18:23にpush
         </p>
         <a
           className="App-link"
