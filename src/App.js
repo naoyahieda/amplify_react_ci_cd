@@ -12,6 +12,9 @@ function App() {
         <p>
           さらにlocalブランチを作り18:23にpush
         </p>
+        <p>
+          8/20 18:44 再度terraform化
+        </p>
         <a
           className="App-link"
           href="https://django.baby"
