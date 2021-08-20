@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          18:21にstagingを編集、18:30にマージしてみる!(19:52にさらに変更)
+          18:21にstagingを編集、18:30にマージしてみる!(19:52にさらに変更)、8/20日にterraform化してみる
         </p>
         <p>
           さらにlocalブランチを作り18:23にpush
