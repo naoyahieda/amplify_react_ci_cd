@@ -7,16 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          18:21にstagingを編集、18:30にマージしてみる!(19:52にさらに変更)、8/20日にterraform化してみる
-        </p>
-        <p>
-          さらにlocalブランチを作り18:23にpush
-        </p>
-        <p>
-          8/20 18:44 再度terraform化
-        </p>
-        <p>
-          環境変数REACT_APP_NODE_ENVの値は{process.env.REACT_APP_NODE_ENV}
+          08/23 環境変数REACT_APP_NODE_ENVの値は{process.env.REACT_APP_NODE_ENV}
         </p>
         <a
           className="App-link"
