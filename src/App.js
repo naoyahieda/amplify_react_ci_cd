@@ -15,6 +15,9 @@ function App() {
         <p>
           8/20 18:44 再度terraform化
         </p>
+        <p>
+          環境変数REACT_APP_NODE_ENVの値は{process.env.REACT_APP_NODE_ENV}
+        </p>
         <a
           className="App-link"
           href="https://django.baby"
