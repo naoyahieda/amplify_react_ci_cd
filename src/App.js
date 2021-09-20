@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          8/23 環境変数REACT_APP_NODE_ENVの値は{process.env.REACT_APP_NODE_ENV}
+          9/20 環境変数REACT_APP_NODE_ENVの値は{process.env.REACT_APP_NODE_ENV}
         </p>
         <a
           className="App-link"
