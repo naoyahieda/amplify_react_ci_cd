@@ -1,11 +1,9 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react'
 // コメントアウト
-function App() {
+const App = ()=> {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
         <p>
           8/23 環境変数REACT_APP_NODE_ENVの値は{process.env.REACT_APP_NODE_ENV}
         </p>
